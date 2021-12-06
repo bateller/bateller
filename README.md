@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![RB's GitHub stats](https://github-readme-stats.vercel.app/api?username=bateller&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently working on infrastructure and security at my day job.
+- 📫 How to reach me: [@bateller](https://twitter.com/bateller)
+- ⚡ LinkedIn: [https://www.linkedin.com/in/brianteller/](https://www.linkedin.com/in/brianteller/)
