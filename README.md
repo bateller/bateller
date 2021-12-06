@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![RB's GitHub stats](https://github-readme-stats.vercel.app/api?username=bateller&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![BATeller's GitHub stats](https://github-readme-stats.vercel.app/api?username=bateller&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058)
+
+[![BATeller's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bateller&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on infrastructure and security at my day job.
 - 📫 How to reach me: [@bateller](https://twitter.com/bateller)
