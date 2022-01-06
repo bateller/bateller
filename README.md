@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![BATeller's GitHub stats](https://github-readme-stats.vercel.app/api?username=bateller&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058)
 
 
-- 🔭 I’m currently working on infrastructure and security at my day job.
+- 🔭 I’m currently working on infrastructure
 - 📫 How to reach me: [@bateller](https://twitter.com/bateller)
 - ⚡ LinkedIn: [https://www.linkedin.com/in/brianteller/](https://www.linkedin.com/in/brianteller/)
