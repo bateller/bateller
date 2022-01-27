@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![BATeller's GitHub stats](https://github-readme-stats.vercel.app/api?username=bateller&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bateller&show_icons=true&count_private=true&hide_title=true)
 
 
 - 🔭 I’m currently working on infrastructure
