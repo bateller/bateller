@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on infrastructure
+- 🌱 I’m currently learning EKS and SageMaker
+- 💬 Ask me about infrastructure consulting where I can help set up [IaC](https://en.wikipedia.org/wiki/Infrastructure_as_code) using Terraform - [https://wbat.net](https://wbat.net)
 - 📫 How to reach me: [@bateller](https://twitter.com/bateller)
+- 😄 Pronouns: He / Him
 - Note: If you are a recruiter, I am not actively looking for a change.
