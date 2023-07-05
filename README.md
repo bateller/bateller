@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bateller&show_icons=true&count_private=true&hide_title=true)
+![My GitHub Statistics](https://myreadme.vercel.app/api/embed/bateller?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
 
 - 🔭 I’m currently working on infrastructure
