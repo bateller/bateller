@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![BATeller's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bateller&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![BATeller's GitHub stats](https://github-readme-stats.vercel.app/api?username=bateller&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bateller&hide_progress=true)
 
 - 🔭 I’m currently working on infrastructure
 - 🌱 I’m currently learning EKS and SageMaker
