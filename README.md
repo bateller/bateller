@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub Statistics](https://myreadme.vercel.app/api/embed/bateller?panels=userstatistics,toprepositories,toplanguages,commitgraph)
-
+[![BATeller's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bateller&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - 🔭 I’m currently working on infrastructure
 - 🌱 I’m currently learning EKS and SageMaker
