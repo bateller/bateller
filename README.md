@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bateller&hide_progress=true)
 
 - 🔭 I’m currently working on infrastructure
-- 🌱 I’m currently learning EKS and SageMaker
+- 🌱 I’m currently learning AWS Deep Learning Containers on EKS and GCP
 - 💬 Ask me about infrastructure consulting where I can help set up [IaC](https://en.wikipedia.org/wiki/Infrastructure_as_code) using Terraform - [https://wbat.net](https://wbat.net)
-- 📫 How to reach me: [@bateller](https://twitter.com/bateller)
-- 😄 Pronouns: He / Him
+- 📫 How to reach me: [@bateller on X](https://x.com/bateller) or [Brian Teller on Linkedin](https://www.linkedin.com/in/brianteller/)
+- 😄 Pronouns: He / Him / Them
 - Note: If you are a recruiter, I am not actively looking for a change.
